@@ -67,5 +67,14 @@ This project analyzes Amazon product sales data using Power BI to uncover pricin
 <img width="991" height="555" alt="f" src="https://github.com/user-attachments/assets/9c82eeaa-98a8-48a0-8d1c-dc6b9aa0f311" />
 
 
+## Business Questions Answered
 
+- Which product categories generate the highest sales?
+- Which products have the highest customer ratings?
+- How do discounts affect product prices?
+- What is the effect of (Prime/ClimateFriendly/Free Delivery/Coupone) products?
+- Which products are critically low in stock?
+- Which categories require immediate inventory replenishment?
+- What pricing ranges perform the best?
+- How do Offers competetion affect pricing?
 
