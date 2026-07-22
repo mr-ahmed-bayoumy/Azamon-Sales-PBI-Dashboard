@@ -64,7 +64,8 @@ This project analyzes Amazon product sales data using Power BI to uncover pricin
 <img width="992" height="559" alt="e" src="https://github.com/user-attachments/assets/4e5e408f-724d-49a7-84b0-2726452b8759" />
 
 ### Offers & Sales
-<img width="991" height="559" alt="f" src="https://github.com/user-attachments/assets/3a2b11f3-8552-401f-b086-a78156bdcdf3" />
+<img width="991" height="555" alt="f" src="https://github.com/user-attachments/assets/9c82eeaa-98a8-48a0-8d1c-dc6b9aa0f311" />
+
 
 
 
