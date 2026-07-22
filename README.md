@@ -55,7 +55,7 @@ This project analyzes Amazon product sales data using Power BI to uncover pricin
 <img width="989" height="556" alt="b" src="https://github.com/user-attachments/assets/4fa8261f-d580-4155-a3c8-8166708213a6" />
 
 ### Pricing
-<img width="892" height="498" alt="c" src="https://github.com/user-attachments/assets/3999a5c3-35c0-468d-8e62-df28c2ce6213" />
+<img width="988" height="555" alt="c" src="https://github.com/user-attachments/assets/06964458-e980-4745-b74f-8da1cdf4ce37" />
 
 ### Product
 <img width="992" height="557" alt="d" src="https://github.com/user-attachments/assets/f55d60e3-261b-4f9e-95a6-be5e783b1c54" />
@@ -64,6 +64,7 @@ This project analyzes Amazon product sales data using Power BI to uncover pricin
 <img width="992" height="559" alt="e" src="https://github.com/user-attachments/assets/4e5e408f-724d-49a7-84b0-2726452b8759" />
 
 ### Offers & Sales
-<img width="892" height="502" alt="f" src="https://github.com/user-attachments/assets/a07547ea-d427-4cab-9e13-b7a372b9e0a5" />
+<img width="991" height="559" alt="f" src="https://github.com/user-attachments/assets/3a2b11f3-8552-401f-b086-a78156bdcdf3" />
+
 
 
