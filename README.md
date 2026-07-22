@@ -30,9 +30,9 @@ This project analyzes Amazon product sales data using Power BI to uncover pricin
 
 ### Key Insights:
 
-1. Market dominance and sales volume are concentrated in the Budget and Mid-Range Products.
-2. A stark divergence exists between sales volume and customer sentiment.
-3. Supply Chain Crisis: Inventory Status Assessment (Critical Risk Alert) leads to Total Revenue Blockage.
-4. Discount Efficiency confirm a strategic misalignment that is eroding profit margins without delivering proportional sales growth.
-5. The logistics landscape has reached a point of saturation where previous value-adds "Free Delivery" have become basic requirements.
-6. Growth Opportunity: Only 29% of the current inventory carries the "Climate Friendly" tag which leads a good opportunity of targeting new customer segment
+1. A stark divergence exists between sales volume and customer sentiment: Market dominance and sales volume are concentrated in the "Budget" and "Mid-Range" Productsو while "Flagship" and "Premium" Products maintain the highest ratings.
+2. Supply Chain Crisis: Inventory Status Assessment (Critical Risk Alert) leads to Total Revenue Blockage.
+3. Discount Efficiency confirm a strategic misalignment that is eroding profit margins without delivering proportional sales growth.
+4. The logistics landscape has reached a point of saturation where previous value-adds "Free Delivery" have become basic requirements and no longer a differentiator.
+5. Growth Opportunity: Only 29% of the current Products carries the "Climate Friendly" tag which leads a good opportunity of targeting eco-conscious customer segments.
+6. Customer Sentiment and Quality Issue: Rating is being suppressed by the sheer volume of lower-quality Budget products.
