@@ -39,8 +39,8 @@ This project analyzes Amazon product sales data using Power BI to uncover pricin
 3. Discounts Are Eating Margins Without Driving Sales:
 - Our discount strategy isn't directed right but shrinking our profit without generating enough extra sales.
 
-4. Losing a Competitive Advantage:
-- "Free Delivery" have become basic requirements and no longer a differentiator, customers simply expect it rather than seeing it as a reason to choose us.
+4. Turning a Lost Edge into an Advantage:
+- "Free Delivery" have become basic requirements and no longer a differentiator, customers simply expect it rather than seeing it as a reason to choose us. Instead we should focus on increasing "Prime" labled products.
 
 5. Big Growth Opportunity:
 - Only 29% of our products are "Climate friendly" giving us a great opportunity of targeting Eco-Friendly customer segment.
