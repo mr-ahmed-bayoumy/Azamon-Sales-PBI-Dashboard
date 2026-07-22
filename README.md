@@ -49,5 +49,20 @@ This project analyzes Amazon product sales data using Power BI to uncover pricin
 - Due to high sales volume in 'Budget' and 'Mid-Range' products, our overall ratings are being suppressed because low-quality reviews outweigh the good ones.
 
 
+## Dashboard
+
+### Overview:
 <img width="989" height="556" alt="b" src="https://github.com/user-attachments/assets/4fa8261f-d580-4155-a3c8-8166708213a6" />
+
+### Pricing
+<img width="992" height="558" alt="c" src="https://github.com/user-attachments/assets/29e3aadf-4a9c-4321-9e24-2dd9739997c8" />
+
+### Product
+<img width="992" height="557" alt="d" src="https://github.com/user-attachments/assets/f55d60e3-261b-4f9e-95a6-be5e783b1c54" />
+
+### Rating
+<img width="992" height="559" alt="e" src="https://github.com/user-attachments/assets/4e5e408f-724d-49a7-84b0-2726452b8759" />
+
+### Offers & Sales
+<img width="987" height="555" alt="f" src="https://github.com/user-attachments/assets/1d7bf993-ba15-4c41-a1a9-ce3213c6f98c" />
 
