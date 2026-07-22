@@ -30,9 +30,20 @@ This project analyzes Amazon product sales data using Power BI to uncover pricin
 
 ### Key Insights:
 
-1. A stark divergence exists between sales volume and customer sentiment: Market dominance and sales volume are concentrated in the "Budget" and "Mid-Range" Productsو while "Flagship" and "Premium" Products maintain the highest ratings.
-2. Supply Chain Crisis: Inventory Status Assessment (Critical Risk Alert) leads to Total Revenue Blockage.
-3. Discount Efficiency confirm a strategic misalignment that is eroding profit margins without delivering proportional sales growth.
-4. The logistics landscape has reached a point of saturation where previous value-adds "Free Delivery" have become basic requirements and no longer a differentiator.
-5. Growth Opportunity: Only 29% of the current Products carries the "Climate Friendly" tag which leads a good opportunity of targeting eco-conscious customer segments.
-6. Customer Sentiment and Quality Issue: Rating is being suppressed by the sheer volume of lower-quality Budget products.
+1. Divergence between Market Dominance and Customer Satisfication:
+- "Budget" and "Mid-Range" Products drive most of our sales, but "Flagship" and "Premium" Products get much better customer reviews.
+
+2. Supplychain Issues Are Blocking Revenue:
+- Critical inventory shortages have brought our sales to a complete standstill.
+
+3. Discounts Are Eating Margins Without Driving Sales:
+- Our discount strategy isn't directed right but shrinking our profit without generating enough extra sales.
+
+4. Losing a Competitive Advantage:
+- "Free Delivery" have become basic requirements and no longer a differentiator, customers simply expect it rather than seeing it as a reason to choose us.
+
+5. Big Growth Opportunity:
+- Only 29% of our products are "Climate friendly" giving us a great opportunity of targeting Eco-Friendly customer segment.
+
+6. Dragging Down Overall Ratings:
+- Due to high sales volume in 'Budget' and 'Mid-Range' products, our overall ratings are being suppressed because low-quality reviews outweigh the good ones.
