@@ -47,3 +47,7 @@ This project analyzes Amazon product sales data using Power BI to uncover pricin
 
 6. Dragging Down Overall Ratings:
 - Due to high sales volume in 'Budget' and 'Mid-Range' products, our overall ratings are being suppressed because low-quality reviews outweigh the good ones.
+
+
+<img width="989" height="556" alt="b" src="https://github.com/user-attachments/assets/4fa8261f-d580-4155-a3c8-8166708213a6" />
+
