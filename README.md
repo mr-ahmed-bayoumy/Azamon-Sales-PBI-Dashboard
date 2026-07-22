@@ -1,6 +1,6 @@
 # Amazon Products Analysis Dashboard
 
-Overview:
+## Overview:
 
 This project analyzes Amazon product sales data using Power BI to uncover pricing trends, customer ratings, discounts, stock availability, and product performance. The dashboard provides interactive insights to support data-driven business decisions.
 
