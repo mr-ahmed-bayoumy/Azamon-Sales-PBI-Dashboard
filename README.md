@@ -4,13 +4,12 @@
 
 This project analyzes Amazon product sales data using Power BI to uncover pricing trends, customer ratings, discounts, stock availability, and product performance. The dashboard provides interactive insights to support data-driven business decisions.
 
-Objectives:
-
-Analyze product pricing.
-Monitor stock availability.
-Evaluate customer ratings.
-Compare discounts and coupons.
-Identify top-performing products.
+###Objectives:
+-Analyze product pricing.
+-Monitor stock availability.
+-Evaluate customer ratings.
+-Compare discounts and coupons.
+-Identify top-performing products.
 
 Tools Used:
 
