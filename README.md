@@ -1,4 +1,4 @@
-# Amazon Products Analysis Dashboard
+# Amazon Smartphone Marketplace Analysis (Power BI)
 
 ### Overview:
 
